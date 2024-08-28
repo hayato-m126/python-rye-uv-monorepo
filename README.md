@@ -142,6 +142,11 @@ ignore = ["F841"]
 
 ## vscode
 
+<https://github.com/microsoft/vscode-python/wiki/Mono-Repo-Set%E2%80%90up-Guide>
+
+projects配下に作ったprojectをworkspaceに追加する。python-rye-uv-monorepo.code-workspace参照
+.vscode/settings.jsonにプロジェクトのpathを設定すれば補完が利く
+
 ## lambda
 
 ## docker
